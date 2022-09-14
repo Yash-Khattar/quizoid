@@ -1,4 +1,4 @@
-# quizoid
+# Quizoid
 
 A new Flutter project.
 
