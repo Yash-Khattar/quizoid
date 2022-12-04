@@ -1,6 +1,5 @@
 # Quizoid
 
-A new Flutter project.
 Hello! I have been learning about design and Flutter, and now I am trying to put it together.
 I've created a Quiz app testing knowledge on a dozen topics!
 I would very much appreciate feedback or constructive criticism.
